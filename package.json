@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-eicar",
+  "version": "1.0.0",
+  "description": "Print or write the EICAR antivirus test string using Node.js",
+  "main": "index.js",
+  "bin": {
+    "eicar-print": "./cli.js"
+  },
+  "keywords": ["eicar", "av", "security", "test", "antivirus", "malware", "cli", "nodejs"],
+  "author": "Khalid Al-Amri",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khalidwalidalamri/NodeJS-Eicar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/khalidwalidalamri/NodeJS-Eicar/issues"
+  },
+  "homepage": "https://github.com/khalidwalidalamri/NodeJS-Eicar#readme",
+  "engines": {
+    "node": ">=14"
+  }
+}
